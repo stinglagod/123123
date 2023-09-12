@@ -26,6 +26,7 @@ class OrderEditForm extends CompositeForm
     public $name;
     public $code;
     public $contact_id;
+    public $files;
 
     public $note;
 
